@@ -1,0 +1,72 @@
+#intotal{
+	padding-top:11.7%;
+	padding-left:30%;
+	width:40%;
+}
+.incontainer{
+left:40px;
+border:1px solid gray;
+}
+.inheader{
+text-align:center;
+background-color:yellow;
+font-size:22px;
+margin-left:1px;
+margin-right:1px;
+padding:10px 0px 10px 0px;
+}
+.indetails{
+padding:40px 40px 0px 40px;
+}
+.inlabel{
+	font-size:17px;
+}
+input{
+border:none;
+}
+.inclg{
+margin-top:5px;
+width:100%;
+padding:5px;
+}
+#ins01{
+width:40%;
+border:none;
+}
+#ins02{
+width:40%;
+border:none;
+}
+#inh01{
+width:40%;
+float:left;
+}
+.inendyr{
+position:relative;
+top:-92px;
+right:-260px;
+}
+#insave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+position:relative;
+bottom:55px;
+}
+.inclose{
+cursor:pointer;
+padding:0px 9px 0px 0px;
+float:right;
+}
+.inclose:hover{
+color:red;
+}
+
+#inpro,#inorg,#inloc{
+width:100%;
+padding:4px 0px 4px 8px;
+}

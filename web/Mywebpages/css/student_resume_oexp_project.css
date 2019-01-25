@@ -1,0 +1,70 @@
+#pjtotal{
+	padding-top:12%;
+	padding-left:30%;
+	width:40%;
+}
+.pjcontainer{
+left:40px;
+height:75%;
+border:1px solid gray;
+}
+.pjheader{
+text-align:center;
+margin-left:1px;
+margin-right:1px;
+background-color:yellow;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.pjdetails{
+padding:40px 40px 0px 40px;
+}
+.pjlabel{
+	font-size:17px;
+}
+input{
+border:none;
+}
+.pjclg{
+margin-top:5px;
+width:100%;
+padding:5px;
+}
+#pjs01{
+width:40%;
+border:none;
+}
+#pjs02{
+width:40%;
+border:none;
+}
+#pjh01{
+width:40%;
+float:left;
+}
+.pjendyr{
+position:relative;
+top:-89px;
+right:-260px;
+}
+#pjsave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+}
+.pjclose{
+cursor:pointer;
+padding:0px 9px 0px 0px;
+float:right;
+}
+.pjclose:hover{
+color:red;
+}
+#pjdesc{
+position:relative;
+bottom:50px;
+}

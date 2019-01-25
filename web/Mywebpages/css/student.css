@@ -1,0 +1,59 @@
+#total{
+	position:fixed;
+	width:100%;
+	margin-top:-7px;
+	margin-left:-7px;
+}
+.container{
+background-color:Tomato;
+text-align: center;
+padding: 20px;
+font-size: 70px;
+}
+nav{
+border: 1px solid gray;
+position: relative;
+width: 100%;
+box-shadow: 3px 3px 3px rgba(0,0,0,0.4);
+background-color: #00ffff;
+padding-left: 8px;
+}
+a{
+text-decoration:none;
+}
+
+.tab button{
+text-align: center;
+display: inline;
+margin: 0;
+padding: 10px 15px;
+background-color: #00ffff;
+color:Blue;
+font-size:17px;
+border:none;
+}
+
+.tab button:hover
+{
+ color: white;
+background-color: purple;   
+}
+.tab button:active
+{
+ color: white;
+background-color: purple;   
+}
+#logo{
+float:left;
+border-radius:50px;
+position:relative;
+bottom:12px;
+}
+.user{
+float: right;
+}
+#id1{
+padding:180px 40px 0px 200px;
+height:500px;
+width:900px;
+}

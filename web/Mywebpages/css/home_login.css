@@ -1,0 +1,103 @@
+#dlogin{
+	display:none;
+position: fixed;
+top: 18%;
+
+margin-left:84%;
+width: 14%;
+height: 12%;
+}
+#droplogin{
+background-color: #ffffcc;
+border: 2px solid blue;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+#bcc1,#bcc2{
+    border: none;
+    font-size: 15px;
+    padding: 5px;
+    background-color: #ffffcc;
+    text-align: center;
+    width: 100%;
+}
+#bcc1{
+    border-bottom: 1px solid blue;
+}
+#bcc1:hover,#bcc2:hover{
+    background-color: springgreen;
+}
+
+
+#abc{
+	padding-top:5%;
+	display:none;
+}
+.lmodal{
+position:relative;
+top:10%;
+left:28%;
+width:40%;
+display:block;
+box-shadow:4px 4px 4px rgba(0,0,4,0.3);
+border: 1px solid yellow;
+background-color: lightyellow;
+}
+.lmodal-content {
+
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+#log{
+width:100%;
+background-color:green;
+padding:8px;
+color:white;
+font-size:20px;
+box-shadow:3px 3px 3px rgba(0,0,0,0.4);
+}
+#log:hover{
+opacity:0.6;
+}
+#ll01,#ll02{
+font-size:20px;
+}
+#lt01,#lt02{
+width:100%;
+height:40px;
+padding:10px;
+}
+#lforgot{
+float:right;
+}
+#lclose{
+float:right;
+font-size:30px;
+width:15px;
+height:15px;
+cursor:pointer;
+}
+#lclose:hover,#lclose:focus{
+cursor:pointer;
+color:red;
+}
+#lclose:hover{
+cursor:pointer;
+color:red;
+}
+#limg1{
+width:40%;
+border-radius:90px;
+}
+.limg_container{
+text-align:center;
+}
+div.lmodal{
+animation:animatezoom 0.8s;
+}
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+

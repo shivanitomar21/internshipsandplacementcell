@@ -1,0 +1,106 @@
+h1
+{
+	text-align:center;
+	font-family:lucida handwriting;
+	margin-top:200px;
+}
+
+a input
+{
+	margin-left:550px;
+	height:45px;
+	width:200px;
+	background-color:#761cca;
+	color:white;
+	border-radius:10px;
+	border:1px solid black;
+	font-size:20px;
+	
+}
+
+#pro
+{
+	border:1px solid white;
+	box-shadow: 3px 3px 3px 3px gray;
+	padding: 20px;
+	width:250px;
+	margin-left:60px;
+}
+#cri
+{
+	border:1px solid white;
+	box-shadow: 3px 3px 3px 3px gray;
+	padding: 20px;
+	width:250px;
+	margin-left:60px;
+	margin-top: 180px;
+}
+#gen1
+{
+	margin-left:110px;
+	height:45px;
+	width:200px;
+	background-color:#761cca;
+	color:white;
+	border-radius:10px;
+	border:1px solid black;
+	font-size:20px;
+	margin-top:20px;
+}
+
+#bran
+{
+	border:1px solid white;
+	box-shadow: 3px 3px 3px 3px gray;
+	padding: 20px;
+	width:250px; 
+	margin-left:10px;
+	
+}
+
+#yr
+{
+	border:1px solid white;
+	box-shadow: 3px 3px 3px 3px gray;
+	padding: 20px;
+	width:250px; 
+	margin-left:10px;
+	
+}
+
+#cmp
+{
+	border:1px solid white;
+	box-shadow: 3px 3px 3px 3px gray;
+	padding: 20px;
+	width:250px; 
+	margin-left:10px;
+	
+}
+
+h2
+{
+	font-size:20px;
+	font-family:lucida handwriting;
+}
+
+#main
+{
+	width:100%;
+	height:250px;
+	display:flex;
+	margin-top:180px;
+}
+
+#gen
+{
+	margin-left:550px;
+	height:45px;
+	width:200px;
+	background-color:#761cca;
+	color:white;
+	border-radius:10px;
+	border:1px solid black;
+	font-size:20px;
+	margin-top:20px;
+}

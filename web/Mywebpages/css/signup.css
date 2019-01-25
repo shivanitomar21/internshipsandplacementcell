@@ -1,0 +1,39 @@
+.modal {
+    display: none; 
+    position: relative;
+    padding-top: 12%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; 
+    overflow: auto; 
+}
+
+
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin:auto;
+    padding:  0px 0px;
+    border: 1px solid #888;
+    width: 40%;
+    box-shadow:1px 1px 1px #888; 
+   }
+
+
+
+
+#myModal{
+display:block;
+}
+.modal-header {
+    float:left;
+	margin-top:-20px;
+    padding: 0px 20px 0px 10px;
+    background-color: #5cb85c;
+    width:100%;
+    color: white;
+}
+
+.modal-body {padding: 0px 30px 16px;}
+

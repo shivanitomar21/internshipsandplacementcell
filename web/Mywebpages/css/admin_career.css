@@ -1,0 +1,28 @@
+#dcc{
+display: none;
+position: fixed;
+top: 25.2%;
+left: 5.4%;
+width: 14%;
+height: 12%;
+}
+#dropcc{
+background-color: #ffffcc;
+border: 2px solid blue;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+#bcc1,#bcc2{
+    border: none;
+    font-size: 15px;
+    padding: 5px;
+    background-color: #ffffcc;
+    text-align: center;
+    width: 100%;
+}
+#bcc1{
+    border-bottom: 1px solid blue;
+}
+#bcc1:hover,#bcc2:hover{
+    background-color: springgreen;
+}

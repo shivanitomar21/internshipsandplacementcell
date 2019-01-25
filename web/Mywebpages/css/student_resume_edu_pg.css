@@ -1,0 +1,83 @@
+#pgtotal{
+	padding-top:12%;
+	padding-left:30%;
+	width:35%;
+}
+.pgcontainer{
+left:40px;
+height:80%;
+border:2px solid #9932CC;
+}
+.pgheader{
+text-align:center;
+background-color:#9932CC;
+color:white;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.pgdetails{
+padding:40px 40px 0px 40px;
+}
+.pglabel{
+	font-size:17px;
+}
+input{
+border:none;
+}
+.pgclg{
+width:100%;
+padding:5px;
+}
+.pgclg:focus{
+border:1px solid red;
+}
+#pgs01{
+width:47%;
+border:none;
+}
+#pgh01{
+width:47%;
+float:left;
+}
+.pgdeg{
+position:relative;
+top:-83px;
+}
+.pgstr{
+position:relative;
+top:-164px;
+right:-200px;
+}
+#pgstr,#pgdeg,#pgom{
+padding:5px;
+width:47%;
+}
+.pgom{
+position:relative;
+top:-140px;
+}
+.pgmm{
+    position: relative;
+    top:-207px;
+    float:right;
+    right:32px;
+}
+#pgsave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+position:relative;
+bottom: -45px;
+}
+.pgclose{
+cursor:pointer;
+padding:0px 9px 0px 0px;
+float:right;
+}
+.pgclose:hover{
+color:red;
+}

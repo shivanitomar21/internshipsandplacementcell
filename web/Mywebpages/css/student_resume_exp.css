@@ -1,0 +1,70 @@
+#exptotal{
+	padding-top:15%;
+	padding-left:27%;
+	width:40%;
+}
+.expcontainer{
+left:40px;
+border:1px solid gray;
+}
+.expheader{
+text-align:center;
+background-color:yellow;
+color:black;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.expdetails{
+padding:35px 20px 0px 20px;
+}
+#expi01{
+font-size:23px;
+}
+#expd01
+{
+height:25px;
+padding:7px 0px 6px 7px;
+background-color:#F0F0F0;
+border:1px solid lightGray;
+}
+#record{
+    font-size: 18px;
+    font-family: Arial rounded mt;
+}
+#record1{
+    color:gray;
+   font-family: bookman old style ;
+   margin-left: 20px;
+}
+span{
+float:right;
+font-weight:bold;
+padding:4px 9px 0px 0px;
+}
+#expprev,#expskip{
+position:relative;
+bottom:-10px;
+color:#00BFFF;
+text-decoration:none;
+cursor:pointer;
+background-color:white;
+border:none;
+font-size:17px;
+margin-bottom: 30px;
+}
+#expskip{
+float:right;
+}
+#expadd{
+font-weight:bold;
+font-size:17px;
+}
+#expadd:hover{
+color:blue;
+cursor:pointer;
+}
+#expb01,#expb02{
+float:right;
+border:none;
+background-color:#f0f0f0;
+}

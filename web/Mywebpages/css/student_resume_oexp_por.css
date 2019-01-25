@@ -1,0 +1,49 @@
+#portotal{
+	padding-top:15%;
+	padding-left:27%;
+	width:40%;
+}
+.porcontainer{
+   
+left:40px;
+border:1px solid gray;
+}
+.porheader{
+text-align:center;
+background-color:yellow;
+color:black;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.pordetails{
+padding:20px 20px 0px 20px;
+}
+.porlabel{
+	font-size:17px;
+}
+#pori01{
+color:gray;
+font-size:15px;
+}
+#pordesc{
+height:75px;
+width:100%;
+}
+#porsave{
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+cursor:pointer;
+width:90px;
+height:36px;
+margin-bottom: 30px;
+}
+#porclose{
+	float:right;
+	cursor:pointer;
+}
+#porclose:hover{
+	cursor:pointer;
+	color:red;
+}

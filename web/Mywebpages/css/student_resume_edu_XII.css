@@ -1,0 +1,92 @@
+#XIItotal{
+	padding-top:12%;
+	padding-left:30%;
+	width:35%;
+}
+.XIIcontainer{
+left:40px;
+height:80%;
+border:2px solid #9932CC;
+}
+.XIIheader{
+text-align:center;
+background-color:#9932CC;
+color:white;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.XIIdetails{
+padding:40px 40px 0px 40px;
+}
+input{
+border:none;
+}
+.XIIclg{
+color:lightGray;
+width:100%;
+padding:5px;
+}
+.XIIclg:focus{
+border:1px solid red;
+}
+#XIIscl{
+width:47%;
+border:none;
+}
+#XIIyoc{
+width:47%;
+border:none;
+}
+#XIIh01{
+width:47%;
+float:left;
+}
+.XIIboard{
+position:relative;
+top:-83px;
+}
+.XIIstr{
+position:relative;
+top:-162px;
+right:-200px;
+}
+.XIIlabel{
+	font-weight:17px;
+}
+#XIIboard,#XIIstr,#XIIdeg{
+padding:5px;
+width:47%;
+}
+#XIIom{
+padding:5px;
+width:47%;
+}
+.XIIom{
+position:relative;
+top:-140px;
+}
+.XIImm{
+    position: relative;
+    top:-205px;
+    float:right;
+    right:32px;
+}
+#XIIsave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+position: relative;
+bottom:-40px;
+}
+.XIIclose{
+cursor:pointer;
+padding:0px 9px 0px 0px;
+float:right;
+}
+.XIIclose:hover{
+color:red;
+}

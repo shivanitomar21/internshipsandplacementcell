@@ -1,0 +1,86 @@
+#diptotal{
+	padding-top:11.7%;
+	padding-left:30%;
+	width:35%;
+}
+.dipcontainer{
+left:40px;
+height:75%;
+border:2px solid #9932CC;
+}
+.dipheader{
+text-align:center;
+background-color:#9932CC;
+color:white;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.dipdetails{
+padding:40px 40px 0px 40px;
+}
+.diplabel{
+	font-size:17px;
+}
+input{
+border:none;
+}
+.dipclg{
+width:100%;
+padding:5px;
+}
+
+#dips01{
+width:47%;
+border:none;
+}
+#diph01{
+width:47%;
+float:left;
+}
+.dipstr{
+position:relative;
+top:-83px;
+}
+#diph0p{
+margin-top:3px;
+width:47%;
+
+}
+#dipstr{
+padding:5px;
+}
+
+#dipom{
+padding:5px;
+width:47%;
+}
+.dipom{
+position:relative;
+top:-70px;
+}
+.dipmm{
+    position: relative;
+    top:-135px;
+    float:right;
+    right:32px;
+}
+#dipsave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+position:relative;
+left:39%;
+bottom:35px;
+}
+.dipclose{
+cursor:pointer;
+padding:0px 9px 0px 0px;
+float:right;
+}
+.dipclose:hover{
+color:red;
+}

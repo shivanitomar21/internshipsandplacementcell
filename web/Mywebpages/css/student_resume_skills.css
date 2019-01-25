@@ -1,0 +1,56 @@
+#sktotal{
+	padding-top:15%;
+	padding-left:27%;
+	width:40%;
+}
+.skcontainer{
+border:2px solid springgreen;
+}
+.skheader{
+text-align:center;
+background-color:springgreen;
+color:black;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.skdetails{
+padding:35px 40px 0px 40px;
+}
+#skp01{
+font-size:19px;
+}
+#ski01{
+border:none;
+padding:5px;
+padding-left:10px;
+width:100%;
+}
+#skprev,#skskip{
+position:relative;
+bottom:4px;
+color:#00BFFF;
+text-decoration:none;
+font-size:18px;
+}
+#skskip{
+float:right;
+}
+#adsave{
+cursor:not-allowed;
+padding:10px;
+width:90px;
+height:36px;
+border:none;
+background-color:lightgray;
+color:white;
+border:none;
+margin-left:106px;
+}
+li{
+    border:2px solid #00BFFF;
+    padding:5px;
+    font-family: lucida handwriting;
+    border-radius: 20%;
+    font-weight:bold;
+    display:inline;
+}

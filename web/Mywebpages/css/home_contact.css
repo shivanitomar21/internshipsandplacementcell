@@ -1,0 +1,16 @@
+#contact{
+	text-align:center;
+	margin-top:23%;
+	margin-left:-15%;
+	margin-right:80px;
+background-color:#ffff99;
+border:2px solid gray;
+height:200px;
+box-shadow:3px 3px 3px rgba(0,0,0,0.3);
+
+font-weight:bold;
+}
+#contact_info{
+	float:left;
+	font-size:20px;
+}

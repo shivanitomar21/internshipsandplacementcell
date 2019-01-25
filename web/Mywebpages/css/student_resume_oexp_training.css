@@ -1,0 +1,71 @@
+#ttotal{
+	padding-top:11.7%;
+	padding-left:30%;
+	width:40%;
+}
+.tcontainer{
+left:40px;
+border:1px solid gray;
+}
+.theader{
+margin-left:1px;
+margin-right:1px;
+text-align:center;
+background-color:yellow;
+font-size:24px;
+padding:10px 0px 10px 0px;
+}
+.tdetails{
+padding:40px 40px 0px 40px;
+}
+.tlabel{
+	font-size:17px;
+}
+input{
+border:none;
+}
+.tclg{
+margin-top:5px;
+width:100%;
+padding:5px;
+}
+#ts01{
+width:40%;
+border:none;
+}
+#ts02{
+width:40%;
+border:none;
+}
+#th01{
+width:40%;
+float:left;
+}
+.tendyr{
+position:relative;
+top:-93px;
+right:-260px;
+}
+#tsave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+position:relative;
+bottom:63px;
+}
+.tclose{
+padding:0px 9px 0px 0px;
+float:right;
+}
+.tclose:hover{
+cursor:pointer;
+color:red;
+}
+#tpro,#torg,#tloc{
+width:100%;
+padding:4px 0px 4px 8px;
+}

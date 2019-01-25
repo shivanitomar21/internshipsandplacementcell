@@ -1,0 +1,33 @@
+#alumni{ 
+    padding-top:2%;
+    padding-left:5%;
+}
+.column{
+width:267px;
+margin-right: 5%;
+margin-bottom: 5%;
+display:inline-table;
+}
+.card{   
+padding:8.8px;
+width:93.3%;
+background-color:white;
+border:3px solid gray;
+box-shadow:3px 3px 3px 3px rgba(0,0,0,0.3);
+height:460px;
+}
+.name{
+font-size:23px;
+font-weight:bold;
+text-align:center;
+color:black;
+}
+p{
+color:black;
+}
+.more{
+    padding-bottom:10px;
+}
+.more button{
+	float:right;
+}

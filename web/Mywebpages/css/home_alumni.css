@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+#alumni{
+}
+#company_info{
+    padding-top:10%;
+padding-left:15%;    
+}
+.column{
+    z-index:-1;
+float:left;
+width:267px;
+margin:30px;
+}
+.card{
+padding:8.8px;
+width:93.3%;
+background-color:white;
+border:3px solid gray;
+box-shadow:3px 3px 3px 3px rgba(0,0,0,0.3);
+height:460px;
+}
+.name{
+font-size:23px;
+font-weight:bold;
+text-align:center;
+color:black;
+}
+p{
+color:black;
+}
+.more{
+    padding-bottom:10px;
+}
+.more button{
+	float:right;
+}

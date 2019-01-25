@@ -1,0 +1,56 @@
+#adtotal{
+	padding-top:15%;
+	padding-left:27%;
+	width:40%;
+}
+.adcontainer{
+left:40px;
+border:2px solid orange;
+}
+.adheader{
+text-align:center;
+background-color:orange;
+color:black;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.addetails{
+padding:35px 20px 0px 20px;
+}
+#adex{
+color:gray;
+margin-bottom:22px;
+}
+#adi01{
+margin-top:3px;
+font-size:19px;
+}
+#adprev,#adskip{
+position:relative;
+bottom:-10px;
+color:#00BFFF;
+text-decoration:none;
+font-size:19px;
+margin-bottom: 20px;
+}
+#adskip{
+float:right;
+}
+#addesc{
+padding:5px;
+}
+#adsave{
+cursor:pointer;
+padding:10px;
+width:90px;
+height:36px;
+border:none;
+background-color:#00BFFF;
+color:white;
+border:none;
+margin-left:106px;
+margin-bottom: 20px;
+}
+#record1{
+   font-family: bookman old style ;
+}

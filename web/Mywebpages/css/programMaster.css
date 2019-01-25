@@ -1,0 +1,113 @@
+#maindiv
+{
+	padding-top:5%;
+	height:80%;
+	/*display:none;*/
+	top:100px;
+}
+
+.lmodal{
+position:absolute;
+top:30%;
+left:30%;
+width:40%;
+height:auto;
+display:block;
+box-shadow:4px 4px 4px rgba(0,0,4,0.3);
+border: 1px solid yellow;
+background-color: #ffffcc;
+
+}
+
+.lmodal-content {
+
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+
+    width: 80%; /* Could be more or less, depending on screen size*/ 
+	
+	
+}
+
+
+
+div.lmodal{
+animation:animatezoom 0.8s;
+}
+
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+#lclose{
+float:right;
+font-size:30px;
+width:15px;
+height:15px;
+cursor:pointer;
+margin-right:20px;
+}
+
+#lclose:hover,#lclose:focus{
+cursor:pointer;
+color:red;
+}
+
+#lclose:hover{
+cursor:pointer;
+color:red;
+}
+
+#ll01,#ll02,#ll03,#ll04{
+font-size:20px;
+margin-left:70px;
+
+
+}
+
+#lt01,#lt02,#lt03,#lt04{
+width:70%;
+height:30px;
+margin-top:11px;
+padding:10px;
+margin-left:70px;
+}
+
+.log{
+width:20%;
+background-color:green;
+padding:8px;
+color:white;
+font-size:20px;
+box-shadow:3px 3px 3px rgba(0,0,0,0.4);
+margin-left:70px;
+margin-bottom:15px;
+}
+
+.log:hover{
+opacity:0.6;
+}
+
+table
+{
+	width:80%;
+	
+	border-collapse:collapse;
+	
+}
+/*tr:nth-child(even) 
+{
+	background-color: yellowgreen;
+}*/
+
+th {
+    background-color: green;
+    color: white;
+	height:30px;
+}
+
+th,td
+{
+	text-align:center;
+	border:1px solid gray;
+}

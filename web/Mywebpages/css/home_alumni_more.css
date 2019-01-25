@@ -1,0 +1,47 @@
+#ncolumn{
+position:absolute;
+padding-left:13%;
+padding-top:2%;
+width:70%;
+
+}
+#ncard{
+width:60%;
+border:4px solid gray;
+box-shadow:5px 5px 5px rgba(0,0,0,0.2);
+}
+#nclose{
+float:right;
+font-size:30px;
+cursor:pointer;
+padding-right:9px;
+font-weight:bold;
+}
+#nclose:hover,#nclose:focus{
+cursor:pointer;
+color:red;
+}
+#nclose:hover{
+cursor:pointer;
+color:red;
+}
+#nimg1{
+width:30%;
+padding:2%;
+float:left;
+}
+.nname{
+font-size:38px;
+}
+.nprofile{
+width:99.5%;
+border:1px solid gray;
+background-color:lightcyan;
+height:232px;
+}
+#para{
+font-size:20px;
+padding:4%;
+margin-top:4px;
+background-color:lightyellow;
+}

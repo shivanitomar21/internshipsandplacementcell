@@ -1,0 +1,82 @@
+#Xtotal{
+	padding-top:12%;
+	padding-left:30%;
+	width:35%;
+}
+.Xcontainer{
+left:40px;
+height:80%;
+border:2px solid #9932CC;
+}
+.Xheader{
+text-align:center;
+background-color:#9932CC;
+color:white;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.Xdetails{
+padding:40px 40px 0px 40px;
+}
+input{
+border:none;
+padding:5px;
+width:100%;
+}
+.Xclg{
+color:lightGray;
+width:100%;
+padding:5px;
+}
+.Xclg:focus{
+border:1px solid red;
+}
+.Xlabel{
+	font-size:17px;
+}
+#Xper,#Xboard{
+width:47%;	
+}
+#Xscl{
+width:47%;
+border:none;
+}
+#Xyoc{
+width:47%;
+border:none;
+}
+#Xh01{
+width:47%;
+float:left;
+}
+#Xh02{
+    width:100%;
+}
+.Xboard{
+width:100%;
+position:relative;
+top:-83px;
+}
+.Xom,.Xmm{
+    width:47%;
+}
+#Xdeg{
+padding:5px;
+}
+#Xsave{
+cursor:pointer;
+width:90px;
+height:36px;
+background-color:#00BFFF;
+color:white;
+float:right;
+border:none;
+}
+.Xclose{
+cursor:pointer;
+padding:0px 9px 0px 0px;
+float:right;
+}
+.Xclose:hover{
+color:red;
+}

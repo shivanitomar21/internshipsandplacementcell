@@ -1,0 +1,35 @@
+
+#resume-body{
+
+margin-left:250px;
+padding-top:200px; 
+
+}
+
+#outer{
+    
+    border: 1px solid gray;
+     box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.4);
+}
+ 
+
+ 
+
+
+
+.content{
+   text-transform: capitalize;
+ color:black;float:right;padding-top:5px;padding-bottom:5px;   margin-bottom:auto; padding-right:50px;margin-right:100px;color:graytext;float:right;padding-top:5px;width:40%;
+                 
+}
+.eduhead{
+  color:blueviolet;padding-left:20px;float:left;width:20%;  
+}
+#abcde{
+    border:2px solid #00BFFF;
+    padding:5px;
+    font-family: lucida handwriting;
+    border-radius: 20%;
+    font-weight:bold;
+    display:inline;
+}

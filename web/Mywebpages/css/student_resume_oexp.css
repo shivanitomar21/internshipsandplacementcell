@@ -1,0 +1,73 @@
+#oexptotal{
+	padding-top:15%;
+	padding-left:27%;
+	width:40%;
+}
+.oexpcontainer{
+left:40px;
+border:1px solid gray;
+}
+.oexpheader{
+text-align:center;
+background-color:yellow;
+color:black;
+font-size:22px;
+padding:10px 0px 10px 0px;
+}
+.oexpdetails{
+padding:35px 20px 0px 20px;
+}
+#oexpi01{
+font-size:23px;
+}
+#oexpd01
+{
+height:25px;
+padding:7px 0px 6px 7px;
+background-color:#F0F0F0;
+border:1px solid lightGray;
+}
+span{
+float:right;
+font-weight:bold;
+padding:4px 9px 0px 0px;
+}
+#oexpprev,#oexpskip{
+position:relative;
+color:#00BFFF;
+text-decoration:none;
+background-color:white;
+border:none;
+cursor:pointer;
+font-size:17px;
+margin-bottom: 30px;
+}
+#record{
+    font-size: 18px;
+    font-family: Arial rounded mt;
+}
+#record1{
+    color:gray;
+   font-family: bookman old style ;
+   margin-left:19px;
+}
+#record2{
+       font-size: 16px;
+    font-family: Arial rounded mt; 
+}
+#oexpskip{
+float:right
+}
+#oexpadd{
+font-weight:bold;
+font-size:17px;
+}
+#oexpadd:hover{
+color:blue;
+cursor:pointer;
+}
+#oexpb01,#oexpb02,#oexpb03{
+float:right;
+border:none;
+background-color:#f0f0f0;
+}
