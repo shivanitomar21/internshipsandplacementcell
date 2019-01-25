@@ -1,0 +1,74 @@
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../css/home_main.css">  
+    <link rel="stylesheet" type="text/css" href="../css/home_login.css"> 
+    <link rel="stylesheet" type="text/css" href="../css/home_objective.css">  
+    <link rel="stylesheet" type="text/css" href="../css/home_contact.css">  
+    <link rel="stylesheet" type="text/css" href="../css/home_about.css"> 
+    <script src="../js/home.js"></script>
+</head>
+
+<body>
+
+<div id="total">
+    
+<div class="container">
+<img src="logo.png" alt="banasthali logo" id="logo">
+Internship and Placements</div>
+
+<div id="dls">
+    <a class="l1"><span onclick="login()">Login</span></a>
+    <a href="signup_page.jsp" class="l2"><span onclick="signup()">Sign Up</span></a>
+</div>
+
+<nav>
+<div id="outer_tab"> 
+<div class="tab">
+<a href="slideshow.html"><button id="b01" >Home</button></a>
+<a href="home_objective.jsp"><button id="b02">Objective</button></a>
+<a href="home_contact.jsp"><button id="b03">Contact Us</button></a>
+<a href="home_about.jsp"><button id="b04">About Us</button></a>
+<a href="student_experience_share.jsp"><button id="b05">Alumni Speak</button></a>
+
+</div>
+</div>
+</nav>    
+</div>
+
+
+<div id="dlogin">
+    
+<div id="droplogin">
+    <button id="bcc1" onclick="slogin()" style="width:99.5%;margin-left:1px;margin-left:1px">As Student</button></br>
+    <button id="bcc2" onclick="slogin()" style="width:99.5%;margin-left:1px;margin-left:1px">As Admin</button>
+</div>
+    
+</div>
+
+<div id="abc">
+    
+<div id="li01" class="lmodal">
+    <form class="lmodal-content animate" id="lform1" action="admin_login_db.jsp">
+    <div class="limg_container">
+    <div id="top"><span onclick="closelog()" id="lclose" title="Close Modal">&times;</span></div>
+    <img src="login_img.png" alt="login_img" id="limg1" class="lavtar">
+</div>
+
+</br>
+
+<label id="ll01">Smart Card Id</label></br>
+<input type="text" placeholder="Enter Username" name="uid" id="lt01" required></br></br>
+<label id="ll02">Password</label></br>
+<input type="password" placeholder="Enter Password" name="upass" id="lt02" required></br></br></br>
+<a href="student.html"><button type="submit"  id="log">login</button></a></br></br>
+<input type="checkbox">
+<label>Remember me</label>
+<p><a href="#aaa" id="lforgot">forgot password?</p>
+
+</form>
+</div>
+</div>
+  
+</body>
+</html>
