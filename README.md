@@ -22,4 +22,4 @@ Tech Stack-
 
 Database: MySQL
 Tools: Netbeans 8.2, MySQL Query Browser
-Web Technologies: Java Server Pages, HTML, CSS, JavaScript etc.
+Web Technologies: Java Server Pages, JDBC, HTML, CSS, JavaScript etc.
