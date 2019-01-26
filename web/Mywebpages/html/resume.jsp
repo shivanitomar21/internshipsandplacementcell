@@ -408,7 +408,9 @@
     font-family: lucida handwriting;
     border-radius: 20%;
     font-weight:bold;
-    display:inline;" ><%=s_name%><%=skill_id%>&nbsp&nbsp&nbsp&nbsp<a href="delete_skill_db_resume.jsp"><span id="1" >&times;</span></a></span>&nbsp&nbsp&nbsp
+    display:inline;" ><%=s_name%><%=skill_id%>&nbsp&nbsp&nbsp&nbsp
+<!-- 		     <a href="delete_skill_db_resume.jsp"><span id="1" >&times;</span></a> -->
+			</span>&nbsp&nbsp&nbsp
             <%
         }
             stmt13.execute();
